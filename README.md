@@ -29,10 +29,10 @@ python main.py
 - Username: `admin`
 - Password: `securepass123`
 
-## 🛡️ Educational Purpose
-This project is built for **educational/demo purposes** and not intended for production use.
-
 ## 🧠 Learning Goals
-- Learn how to safely handle passwords
-- Understand basic login protection methods
-- Get familiar with Python and SQLite in a cybersecurity context
+- Understand how passwords are stored securely in real applications
+- Explore login hardening strategies against brute-force attacks
+- Practice working with databases and input validation in Python
+
+📌 Tags
+python cybersecurity sqlite bcrypt student-project secure-login cli
